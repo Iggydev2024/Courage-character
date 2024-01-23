@@ -1,2 +1,57 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Courage the Cowardly Dog</title><link rel="icon" href="dog.jpeg.avif">
+</head>
+<body>
+<!--header element-->
+    <header>
+        <img src="dog.jpeg.avif">
+        <h1>Courage the Cowardly Dog</h1>
+    </header>
+    <main>
+        <h2>About Courage the Cowardly Dog</h2>
+        <p>Courage the cowardly dog is the pet dog of an old couple who live in a farmhouse in the middle of Nowhere, a fictional town in Kansas.
+            Courage and his owners, Eustace and Muriel and plagued by strange and spooky creatures who invade their house and attempt to finish
+            them off. Despite Courage being a cowardly dog, he is able to protect and defend his owners each time, especially his beloved Muriel 
+            who has a soft spot for him.</p>
+          <img src="dog2.jpeg.jpg"> 
+         <p>Oh no! He's going for Muriel!</p> 
+
+          <!--Characteristics-->
+          <h2>Courage's Characteristics</h2>
+          <ol>
+            <li>Timid</li>
+            <li>Responsible</li>   
+            <li>Caring</li>   
+            <li>Techie</li>
+            <li>Anxious</li>
+            <li>Determined</li>
+
+          <!--Friends-->
+            </li>
+          </ol>
+          <h2>Courage's Family</h2>
+          <p>Courage is the pet dog to an old couple, Muriel and Eustace. There are many theories explaining the dynamic 
+            their relationship with fans suggesting that he is a reincarnation of a son they had who died. This explains 
+            why the couple never had any children. Courage is loved by Muriel but has a strained relationship with Eustace
+            who often mistreats and ridicules him. Nonetheless, Courage is always determined to save his family from strange 
+            and creepy intruders. Click on the links below to find out more about his friends and family.
+          </p>
+          <ul>
+            <li><a target="_blank" href="https://www.cbr.com/courage-cowardly-dog-muriel-evil-family/">Eustace Bagge</a></li>
+            <li><a target="_blank" href="https://www.cbr.com/courage-cowardly-dog-muriel-evil-family/">Ma Bagge</a></li>
+            <li><a target="_blank" href="https://screenrant.com/courage-cowardly-dog-muriel-facts-trivia/#her-life-before-the-show-was-extremely-busy">Muriel</a></li>
+            <li><a target="_blank" href="https://www.cbr.com/courage-cowardly-dog-muriel-evil-family/">Freaky Fred</a></li>
+          </ul>
+          
+
+    </main>
+    <!--Footer Element-->
+    <footer>
+        <p>This site was created during a Skrillshare class. &copy;2024 Iggy</p>
+    </footer>
+</body>    
+</html>
